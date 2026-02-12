@@ -129,7 +129,39 @@ const projectsData = [
       "Node.js",
       "JWT"
     ]
-  }
+  },
+
+    {
+      id: 5,
+      title: "Randevu Takip",
+      description: "İşletmeler için geliştirilmiş randevu yönetim masaüstü uygulaması.",
+      image: "/screenshots/appointment-ss-1.png",
+      images: [
+        "/screenshots/appointment-ss-1.png",
+        "/screenshots/appointment-ss-2.png",
+        "/screenshots/appointment-ss-3.png"
+      ],
+      githubLink: "https://github.com/EsmaNurSolmaz/AppointmentTracker",
+      liveLink: "",
+      about: "Randevu Takip uygulaması, WPF (Windows Presentation Foundation) kullanılarak geliştirilmiş bir masaüstü uygulamasıdır. İşletmelerin müşteri randevularını kolayca oluşturmasını, görüntülemesini, güncellemesini ve silmesini sağlar. Kullanıcı dostu arayüzü sayesinde randevu süreçlerini düzenli ve verimli bir şekilde yönetmeyi amaçlar.",
+      features: [
+        "Yeni randevu oluşturma",
+        "Mevcut randevuları listeleme ve görüntüleme",
+        "Randevu güncelleme ve silme",
+        "Tarih ve saate göre randevu filtreleme",
+        "Müşteri bilgilerini kaydetme ve düzenleme",
+        "Randevuları takvim görünümünde görüntüleme",
+        "Kullanıcı dostu masaüstü arayüz"
+      ],
+      tech: [
+        "C#",
+        "WPF",
+        ".NET",
+        "MVVM",
+        "SQL Server"
+      ]
+    }
+
 
 ];
 
