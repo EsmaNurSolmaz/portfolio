@@ -135,11 +135,12 @@ const projectsData = [
       id: 5,
       title: "Randevu Takip",
       description: "İşletmeler için geliştirilmiş randevu yönetim masaüstü uygulaması.",
-      image: "/screenshots/appointment-ss-1.png",
+      image: "/screenshots/appointment-ss-2.png",
       images: [
         "/screenshots/appointment-ss-1.png",
         "/screenshots/appointment-ss-2.png",
-        "/screenshots/appointment-ss-3.png"
+        "/screenshots/appointment-ss-3.png",
+        "/screenshots/appointment-ss-4.png"
       ],
       githubLink: "https://github.com/EsmaNurSolmaz/AppointmentTracker",
       liveLink: "",
